@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "img": "https://i.ibb.co/x7sZn9Q/css.png",
+    "img": "https://i.ibb.co/dPkWLGz/css3.jpg",
     "subName": "The Complete 2022 Web Development Course -  Projects",
     "author": "Jonas Schmedtmann",
     "rating": "5",
@@ -41,6 +41,48 @@
     "price": "12.00",
     "position": "Bestseller",
     "name": "JavaScript"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/yF4mC5N/react.png",
+    "subName": "TGraphQL with React: The Complete Developers Guide",
+    "author": "Stephen Grider",
+    "rating": "5",
+    "price": "12.00",
+    "position": "Bestseller",
+    "name": "React"
+   
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/xmq08PF/Java-Script.jpg",
+    "subName": "The Complete JavaScript Course 2022: From Zero to Expert!",
+    "author": "Jonas Schmedtmann",
+    "rating": "5",
+    "price": "12.00",
+    "position": "Bestseller",
+    "name": "JavaScript"
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/6tFPvTd/html.png",
+    "subName": "TML5 Mastery—Build Superior Websites & Mobile Apps 2022",
+    "author": "Maximiliano Firtman",
+    "rating": "5",
+    "price": "12.00",
+    "position": "Bestseller",
+    "name": "HTML5"
+   
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/dPkWLGz/css3.jpg",
+    "subName": "The Complete 2022 Web Development Course -  Projects",
+    "author": "Jonas Schmedtmann",
+    "rating": "5",
+    "price": "12.00",
+    "position": "Bestseller",
+    "name": "CSS3"
    
   }
 ]

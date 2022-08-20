@@ -2,12 +2,13 @@ import React from "react";
 
 const Kids = () => {
 	return (
-		<div>
-			<div class="hero my-20">
+		<div className="container mx-auto my-20">
+			<h2 className='text-3xl font-bold my-8'>Tutorial of <span className='text-red-500'>Kids Coding</span></h2>
+			<div class="hero">
 				<div class="hero-content flex-col lg:flex-row">
 					<img
 						src="https://i.ibb.co/hZxyrkr/4-benefits-learning-programming-at-a-young-age.webp"
-						class="max-w-lg rounded-lg shadow-2xl"
+						class="max-w-xl rounded-lg shadow-2xl"
 					/>
 					<div class="text-center lg:text-left">
 						<h1 class="text-3xl font-bold">Programming for Kids</h1>

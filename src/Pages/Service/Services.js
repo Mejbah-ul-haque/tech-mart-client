@@ -7,7 +7,7 @@ const Services = () => {
   
   return (
     <div className='container mx-auto'>
-      <h1 className='text-5xl font-bold my-8'>Services</h1>
+      <h1 className='text-5xl font-bold text-[#939292] my-8'>Services</h1>
       <h2 className='text-3xl font-bold my-8'>Tutorial of <span className='text-red-500'>Development</span></h2>
       <ul>
         <li className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">

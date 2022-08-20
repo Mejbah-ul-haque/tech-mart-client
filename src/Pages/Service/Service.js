@@ -3,8 +3,8 @@ import React from "react";
 const Service = (props) => {
 	const {name, subName, author, img, rating, price, position } = props.service;
 	return (
-		<div>
-			<div class="card bg-base-100 shadow-xl">
+		<div className="my-4">
+			<div class="card bg-base-100 shadow-xl my-xl">
 				<figure>
 					<img src={img} />
 				</figure>
