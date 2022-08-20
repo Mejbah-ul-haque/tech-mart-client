@@ -1,22 +1,22 @@
 import React from "react";
 
 const Service = (props) => {
-	const { subName, author, img, rating, price, position } = props.service;
+	const {name, subName, author, img, rating, price, position } = props.service;
 	return (
 		<div>
 			<div class="card bg-base-100 shadow-xl">
 				<figure>
-					<img src="https://placeimg.com/400/225/arch" alt="Shoes" />
+					<img src={img} />
 				</figure>
 				<div class="card-body">
 					<h2 class="card-title">
-						Shoes!
-						<div class="badge badge-secondary">NEW</div>
+						{subName}
 					</h2>
-					<p>If a dog chews shoes whose shoes does he choose?</p>
+					<p className="text-[#999999]">{author}</p>
+					<p className="text-xl font-bold">${price}</p>
 					<div class="card-actions justify-end">
-						<div class="badge badge-outline">Fashion</div>
-						<div class="badge badge-outline">Products</div>
+						<div class="badge badge-outline">{name}</div>
+						<div class="badge badge-outline">{position}</div>
 					</div>
 				</div>
 			</div>

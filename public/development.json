@@ -2,21 +2,23 @@
   {
     "id": 1,
     "img": "https://i.ibb.co/6tFPvTd/html.png",
-    "subName": "TML5 Mastery—Build Superior Websites & Mobile Apps NEW 2022",
+    "subName": "TML5 Mastery—Build Superior Websites & Mobile Apps 2022",
     "author": "Maximiliano Firtman",
     "rating": "5",
     "price": "12.00",
-    "position": "Bestseller"
+    "position": "Bestseller",
+    "name": "HTML5"
    
   },
   {
     "id": 2,
-    "img": "https://i.ibb.co/n1qVLBb/css.png",
-    "subName": "The Complete 2022 Web Development Course - Build 15 Projects",
+    "img": "https://i.ibb.co/x7sZn9Q/css.png",
+    "subName": "The Complete 2022 Web Development Course -  Projects",
     "author": "Jonas Schmedtmann",
     "rating": "5",
     "price": "12.00",
-    "position": "Bestseller"
+    "position": "Bestseller",
+    "name": "CSS3"
    
   },
   {
@@ -26,7 +28,8 @@
     "author": "Stephen Grider",
     "rating": "5",
     "price": "12.00",
-    "position": "Bestseller"
+    "position": "Bestseller",
+    "name": "React"
    
   },
   {
@@ -36,7 +39,8 @@
     "author": "Jonas Schmedtmann",
     "rating": "5",
     "price": "12.00",
-    "position": "Bestseller"
+    "position": "Bestseller",
+    "name": "JavaScript"
    
   }
 ]
