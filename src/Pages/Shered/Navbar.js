@@ -25,6 +25,7 @@ const Navbar = () => {
           </ul>
         </li>
         <li><a>Design</a></li>
+        <li><a>About</a></li>
       </ul>
     </div>
     <a class="btn btn-ghost normal-case text-xl">TECH MART</a>
@@ -47,6 +48,7 @@ const Navbar = () => {
         </ul>
       </li>
       <li><a>Design</a></li>
+      <li><a>About</a></li>
     </ul>
   </div>
   <div class="navbar-end">

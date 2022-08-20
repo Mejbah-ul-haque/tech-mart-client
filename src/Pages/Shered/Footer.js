@@ -5,9 +5,9 @@ const Footer = () => {
     <footer class="footer p-10 bg-base-200 text-base-content">
   <div>
     <span class="footer-title">Services</span> 
-    <a class="link link-hover">Branding</a> 
+    <a class="link link-hover">Business</a> 
+    <a class="link link-hover">Development</a> 
     <a class="link link-hover">Design</a> 
-    <a class="link link-hover">Marketing</a> 
     <a class="link link-hover">Advertisement</a>
   </div> 
   <div>
