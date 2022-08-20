@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
 	return (
-		<div>
+		<div className='container mx-auto'>
 			<div class="hero lg:my-20">
 				<div class="hero-content flex-col lg:flex-row-reverse">
 					<img
