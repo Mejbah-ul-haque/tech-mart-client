@@ -7,7 +7,7 @@ const Banner = () => {
 				<div class="hero-content flex-col lg:flex-row-reverse">
 					<img
 						src="https://i.ibb.co/Cm3pvPd/coding-and-testing-programming-of-software.jpg"
-						class="max-w-sm rounded-lg shadow-2xl"
+						class="lg:max-w-xl rounded-lg shadow-2xl"
 					/>
 					<div class="text-center lg:text-left">
 						<h1 class="text-5xl font-bold">You Learn Code?</h1>
