@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
 	return (
-		<div class="container mx-auto navbar bg-base-100">
-			<div class="navbar-start">
-				<div class="dropdown">
-					<label tabindex="0" class="btn btn-ghost lg:hidden">
+		<div className="container mx-auto navbar bg-base-100">
+			<div className="navbar-start">
+				<div className="dropdown">
+					<label tabindex="0" className="btn btn-ghost lg:hidden">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
 							class="h-5 w-5"
@@ -30,7 +30,7 @@ const Navbar = () => {
 							<Link to="business">Business</Link>
 						</li>
 						<li tabindex="0">
-							<a class="justify-between">
+							<a className="justify-between">
 								Development
 								<svg
 									class="fill-current"
@@ -42,7 +42,7 @@ const Navbar = () => {
 									<path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
 								</svg>
 							</a>
-							<ul class="p-2">
+							<ul className="p-2">
 								<li>
 									<Link to="/">HTML</Link>
 								</li>
@@ -74,12 +74,12 @@ const Navbar = () => {
 						</li>
 					</ul>
 				</div>
-				<Link to="/" class="btn btn-ghost normal-case text-xl">
+				<Link to="/" className="btn btn-ghost normal-case text-xl">
 					TECH MART
 				</Link>
 			</div>
-			<div class="navbar-center hidden lg:flex">
-				<ul class="menu menu-horizontal p-0">
+			<div className="navbar-center hidden lg:flex">
+				<ul className="menu menu-horizontal p-0">
 					<li>
 						<Link to="business">Business</Link>
 					</li>
@@ -96,7 +96,7 @@ const Navbar = () => {
 								<path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
 							</svg>
 						</a>
-						<ul class="p-2">
+						<ul className="p-2">
 							<li>
 								<Link to="/">HTML</Link>
 							</li>
@@ -128,8 +128,8 @@ const Navbar = () => {
 					</li>
 				</ul>
 			</div>
-			<div class="navbar-end">
-				<Link to="/login" class="btn">
+			<div className="navbar-end">
+				<Link to="/login" className="btn">
 					Login
 				</Link>
 			</div>
