@@ -9,7 +9,7 @@ const Service = (props) => {
 					<img src={img} />
 				</figure>
 				<div className="card-body">
-					<h2 className="card-title">
+					<h2 className="text-lg font-bold">
 						{subName}
 					</h2>
 					<p className="text-[#999999]">{author}</p>
