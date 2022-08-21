@@ -8,7 +8,7 @@ const Kids = () => {
 				<div className="hero-content flex-col lg:flex-row">
 					<img
 						src="https://i.ibb.co/hZxyrkr/4-benefits-learning-programming-at-a-young-age.webp"
-						class="max-w-xl rounded-lg shadow-2xl"
+						className="max-w-xl rounded-lg shadow-2xl"
 					/>
 					<div className="text-center lg:text-left">
 						<h1 className="text-3xl font-bold">Programming for Kids</h1>
